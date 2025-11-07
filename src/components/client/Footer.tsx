@@ -7,8 +7,8 @@ export default function ClientFooter() {
           <a href="/client/privacy" className="hover:underline">
             Privacy
           </a>
-          <a href="/client/terms" className="hover:underline">
-            Terms
+          <a href="/blogs/CompanyIntroduction" className="hover:underline">
+            Về công ty chúng tôi
           </a>
         </div>
       </div>
